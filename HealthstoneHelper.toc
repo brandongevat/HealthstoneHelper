@@ -1,0 +1,5 @@
+## Interface: 100002
+## Title: HealthstoneHelper
+## Author: Plaguesqt, Mageiden
+## Notes: Changes your healthstone automatically, so you don't have to.
+core.lua
